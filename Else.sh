@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # else example
 
 if [ $# -eq 1 ]

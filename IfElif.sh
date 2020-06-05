@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # elif example
 
 if [ $1 -ge 18 ]

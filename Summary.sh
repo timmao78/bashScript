@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # A basic summary of my sales report
 
 echo Here is a summary of the sales data:

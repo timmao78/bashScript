@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # Basic if statement
 
 if [ $1 -gt 100 ]

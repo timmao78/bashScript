@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # and or example
 
 if [ -r $1 ] && [ -s $1 ]

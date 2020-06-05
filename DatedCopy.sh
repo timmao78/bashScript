@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 
 cp $1 "$( basename $1 .sh )_$( date "+%Y-%m-%d").sh"
 
