@@ -1,0 +1,27 @@
+Topic				File				Status
+----------------------------------------------------------------------
+Introduction 			HelloWorld.sh			Done
+Variables 			MyCopy.sh			Done
+Variables 			DatedCopy.sh			BUGGED
+Variables 			SimpleVariables.sh		Done
+Variables 			CommandLineArguments.sh		Done
+Variables 			CommandSubstitution.sh		Done
+Variables 			ExportScript1.sh 		Done
+Variables 			ExportScript2.sh 		Done
+Variables 			RandomWord.sh			Done
+User Input			Login.sh			Done
+User Input			Introduction.sh			Done
+User Input 			Summary.sh			Done
+User Input 			Cars.sh				Done
+User Input 			MyLs.sh                         Done
+Arithmetic 			ExprExamples.sh			Done
+Arithmetic 			LetExamples.sh			Done
+Arithmetic 			ArithmeticActivities.sh  	NotFinish
+Arithmetic 			LengthOfVaribles.sh 		Done
+Arithmetic 			ExpansionExamples.sh		Done
+IfStatement 			Else.sh 			Done
+IfStatement 			NestedIf.sh 			Done
+IfStatement 			IfExample.sh			Done
+IfStatement 			AndOr.sh 			Done
+IfStatement 			IfElif.sh 			Done
+IfStatement 			Else.sh				Done
