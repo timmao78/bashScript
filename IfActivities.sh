@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/local/bin/bash
 
 #1 print the larger command line argument
 

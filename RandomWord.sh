@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 
 echo here is the random word:
 head -$((RANDOM*7)) /usr/share/dict/words | tail -1

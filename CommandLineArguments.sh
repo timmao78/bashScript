@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 
 echo "This script's name is $0."
 echo "$# argument(s) is(are) passed in."

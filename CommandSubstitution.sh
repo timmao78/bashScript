@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 
 myvar=$( ls /etc | wc -l )
 

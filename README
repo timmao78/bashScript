@@ -25,3 +25,6 @@ IfStatement 			IfExample.sh			Done
 IfStatement 			AndOr.sh 			Done
 IfStatement 			IfElif.sh 			Done
 IfStatement 			Else.sh				Done
+IfStatement 			IfActivities.sh 		Done
+IfStatement 			Case.sh				Done
+Loops 				WhileLoop.sh 			Done

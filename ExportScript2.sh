@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # demonstrate variable scope 2
 
 # Let's verify their current value

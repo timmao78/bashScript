@@ -1,7 +1,7 @@
-#!/usr/local/bin/bash
+#/usr/local/bin/bash
 
 counter=1
-while [ $counter -le 10 ]
+until [ $counter -gt 10 ]
 do
 	echo $counter
 	(( counter++ ))

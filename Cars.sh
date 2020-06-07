@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # Demonstrate how read actually works
 
 echo What cars do you like?

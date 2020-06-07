@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # Ask the user for login details
 
 read -p 'Username: ' uservar

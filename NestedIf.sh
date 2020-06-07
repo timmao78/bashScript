@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # Nested if statements
 
 if [ $1 -gt 100 ]

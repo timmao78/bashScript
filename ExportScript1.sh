@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 # demonstrate variable scope 1
 
 var1=foo
